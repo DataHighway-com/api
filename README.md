@@ -3,6 +3,10 @@ Getting Started with Data Highway API Docs
 
 **IMPORTANT NOTE:** The Data Highway API Docs are still a work in progress.
 
+### Screenshot
+
+![](./source/images/screenshot.png)
+
 ### Prerequisites
 
 * Linux or macOS only (Windows may work, but is unsupported)
